@@ -24,6 +24,11 @@ Command s
 - To save.
 - Useful in VSC.
 
+Command c
+- To copy
+
+Command v
+- To paste
 
 **Simple Commands**
 
